@@ -10,7 +10,7 @@ public class Medlem {
     private int telefonnummer;
     private String email;
     private LocalDate fødselsdato;
-    private String aktivitetsform;
+   /* private String aktivitetsform;
     private String medlemskabType;
     private String medlemskabStatus;
     private int abonnement;

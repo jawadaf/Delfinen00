@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="177004ca-4cc8-4ea1-98c4-c940dc5c63f4" name="Changes" comment="klasser oprettet78" />
+    <list default="true" id="177004ca-4cc8-4ea1-98c4-c940dc5c63f4" name="Changes" comment="klasser oprettet78">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Formand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Formand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Medlem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Medlem.java" afterDir="false" />
+    </list>
+    <list id="94c898d7-9910-4f22-aaee-90c5e6e57c33" name="Changes by Alhus" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Medlem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Medlem.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +28,38 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/main/java/Medlem.java">
+      <ranges>
+        <range start1="12" end1="13" start2="12" end2="13" changelist="177004ca-4cc8-4ea1-98c4-c940dc5c63f4" />
+        <range start1="14" end1="18" start2="14" end2="15" changelist="94c898d7-9910-4f22-aaee-90c5e6e57c33" />
+        <range start1="19" end1="23" start2="16" end2="17" changelist="94c898d7-9910-4f22-aaee-90c5e6e57c33" />
+        <range start1="30" end1="30" start2="24" end2="25" changelist="94c898d7-9910-4f22-aaee-90c5e6e57c33" />
+        <range start1="32" end1="32" start2="27" end2="28" changelist="94c898d7-9910-4f22-aaee-90c5e6e57c33" />
+        <range start1="33" end1="33" start2="29" end2="49" changelist="94c898d7-9910-4f22-aaee-90c5e6e57c33" />
+        <range start1="34" end1="34" start2="50" end2="51" changelist="94c898d7-9910-4f22-aaee-90c5e6e57c33" />
+      </ranges>
+    </file>
+    <file path="$PROJECT_DIR$/src/main/java/Main.java">
+      <ranges>
+        <range start1="0" end1="0" start2="0" end2="2" changelist="94c898d7-9910-4f22-aaee-90c5e6e57c33" />
+        <range start1="2" end1="2" start2="4" end2="21" changelist="177004ca-4cc8-4ea1-98c4-c940dc5c63f4" />
+      </ranges>
+    </file>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2YTytAa2N6leVC617uEa6O6ch8Z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,7 +71,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Muhammad",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700564077805</updated>
       <workItem from="1700564078759" duration="6124000" />
+      <workItem from="1700642231568" duration="4181000" />
     </task>
     <task id="LOCAL-00001" summary="000">
       <option name="closed" value="true" />
@@ -81,6 +119,29 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="medlem" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="000" />
