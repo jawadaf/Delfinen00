@@ -12,15 +12,9 @@ public class Medlem {
     private LocalDate fødselsdato;
    /* private String aktivitetsform;
     private String medlemskabType;
-    private String medlemskabStatus;
-    private int abonnement;
-    private String ikkeBetalt;
-    private boolean isBetalt;
+    private String medlemskabStatus;*/
 
-
-    public Medlem
-            (String navn, String adresse, int telefonnummer,
-             String email, int year, int month, int day, int alder) {
+    public Medlem(String navn, String adresse, int telefonnummer, String email, int year, int month, int day, int alder) {
         this.navn = navn;
         this.adresse = adresse;
         this.telefonnummer = telefonnummer;
@@ -28,8 +22,31 @@ public class Medlem {
         this.fødselsdato = LocalDate.of(year, month, day);
         this.alder = alder;
     }
+
     public LocalDate getFødselsdato() {
         return fødselsdato;
+
     }
+    public String getNavn() {
+        return navn;
+    }
+
+    public int getAlder() {
+        return alder;
+    }
+
+    public String getAdresse() {
+        return adresse;
+    }
+    public int getTelefonnummer() {
+        return telefonnummer;
+    }
+    public String getEmail() {
+        return email;
+    }
+
+
+
 }
+
 
